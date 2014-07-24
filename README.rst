@@ -21,5 +21,5 @@ Holy Hand Grenade
 The holy hand grenade was an attempt to optimize my draft picks given my
 complete lack of knowledge about fantasy football in general. It presents
 a small CLI that so that users may enter the current state of the draft as
-it happens - and then query for what the "next best pic" is. 
-
+it happens - and then query for what the "next best pic" is. It does this 
+based on a JSON input data file containing individual player stats.
